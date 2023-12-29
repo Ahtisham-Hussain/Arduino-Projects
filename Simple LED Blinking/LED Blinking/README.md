@@ -10,7 +10,8 @@ The LED is connected to Arduino pin 11. In the void setup() function, the Arduin
 
 ## Circuit Diagram
 
-![LED_Blinking](Simple LED Blinking\LED Blinking\LED_Blinking.png)
+![LED_Blinking](https://github.com/Ahtisham-Hussain/Arduino-Projects/assets/154002517/0a7b56eb-92ee-4b7e-a462-9b0af6406844)
+
 ## Project Demo
 
-![Demo](Simple LED Blinking\LED Blinking\Blink_LED.mp4)
+https://github.com/Ahtisham-Hussain/Arduino-Projects/assets/154002517/7556e999-e708-45b1-a034-4bfa236545d2
