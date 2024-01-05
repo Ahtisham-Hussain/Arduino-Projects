@@ -6,6 +6,7 @@ In subsequent seesion, projects include one or more sensors.
 ## Signal acquisition pipeline
 Let’s examine the entire signal acquisition pipeline from raw physical signal to the digitized representation. We’ll learn more about signals and signal processing in the Signals lessons.
 <br>
+
 - First, there exists some physical phenomena that exists in the world (Stage 1).
 - We need to develop and/or utilize a method to sense that phenomena and output an electrical signal (which will be readable by a computer) (Stage 2).
 - Some sensor chips process this electrical signal (e.g., smooth, filter, amplify)—Stage 3.

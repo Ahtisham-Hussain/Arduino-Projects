@@ -1,5 +1,5 @@
 # Arduino
-The Arduino Uno R3 (see Figure 1-1) contains the ATmega328P microcontroller to carry out programmed instructions and memory to store data. The Arduino is powered through a DC input or a USB connection, which is also used to upload instructions and communicate with a computer or laptop. An ATmega16U2 chip manages USB (Universal Serial Bus) to serial communication.
+The Arduino Uno R3 contains the ATmega328P microcontroller to carry out programmed instructions and memory to store data. The Arduino is powered through a DC input or a USB connection, which is also used to upload instructions and communicate with a computer or laptop. An ATmega16U2 chip manages USB (Universal Serial Bus) to serial communication.
 <br>
 
 The power pins allow 5V (5 volts) or 3.3V and ground (GND) to connect other devices. Pins 0 and 1 are for transmitting and receiving serial data from other devices. Pins 2 to 13 are digital input and output, which input or output 5V for a digital one or 0V for a digital zero. Several output pins vary the time that a pin state is 5V to emulate voltages between 0V and 5V. 
