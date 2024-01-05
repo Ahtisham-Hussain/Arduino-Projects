@@ -3,6 +3,7 @@
 
 ## Table of Contents
 
+| S.NO | Topic |
 |-|-|
 | 1 | Simple LED Blinking |
 | 2 | Switches |
