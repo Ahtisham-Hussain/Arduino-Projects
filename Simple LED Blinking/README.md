@@ -6,10 +6,11 @@ Using Ohm’s law, which states voltage equals the product of current and resist
 <br>
 An LED is a diode, which allows current to pass in one direction only. The long leg of the LED is the anode and the flat side of the LED is on the cathode side. LEDs contain semiconductor material, which determines the wavelength of light emitted: red, green, blue, or yellow. The forward voltage drop of red, yellow, and green LEDs is lower than for blue and white LEDs: 2.0V and 2.9V, respectively.
 <br>
+
 ![Arduino_LEDOn_5VFixed_InsertLED](https://github.com/Ahtisham-Hussain/Chap01/assets/154002517/08841edb-5e68-4eea-92e3-29992fdc1f6e)
 
-## ## Table of Contents
-<br>
+## Project Contents
+
 | S.NO | Topic | Project Description |
 |-|-|-|
 | 1 |     LED Blinking       | https://github.com/Ahtisham-Hussain/Arduino-Projects/tree/main/Simple%20LED%20Blinking/LED%20Blinking |

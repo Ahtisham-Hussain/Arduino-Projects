@@ -12,6 +12,7 @@ Let’s examine the entire signal acquisition pipeline from raw physical signal 
 - In Stage 4, an analog-to-digital converter (ADC) converts the electrical signal to bits (a process called quantization).
 - Finally, in Stage 5, we can process and analyze the digitized signal using digital signal processing (DSP) techniques and machine learning.
 <br>
+
 <img width="1500" alt="SignalAcquisitionPipeline_Wikipedia" src="https://github.com/Ahtisham-Hussain/Chap01/assets/154002517/1a35924f-229c-4a14-9dc9-f8c206a2718a">
 
 ## Table of Content
