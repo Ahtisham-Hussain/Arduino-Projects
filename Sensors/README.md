@@ -16,7 +16,7 @@ Let’s examine the entire signal acquisition pipeline from raw physical signal 
 
 ## Table of Content
 
-| S.NO | Topic | Link |
+| S.NO | Topic | Project Description |
 |-|-|-|
 | 1 | Humidity_Sensor | https://github.com/Ahtisham-Hussain/Arduino-Projects/tree/main/Sensors/Humidity_Sensor |
 | 2 | Light_Dependent_Resistor | https://github.com/Ahtisham-Hussain/Arduino-Projects/tree/main/Sensors/Light_Dependent_Resistor |

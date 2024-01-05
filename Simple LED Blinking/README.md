@@ -10,7 +10,7 @@ An LED is a diode, which allows current to pass in one direction only. The long 
 
 ## ## Table of Contents
 <br>
-| S.NO | Topic |
-|-|-|
-| 1 | LED Blinking |
-| 2 | LED_Brightness_and_PWM |
+| S.NO | Topic | Project Description |
+|-|-|-|
+| 1 |     LED Blinking       | https://github.com/Ahtisham-Hussain/Arduino-Projects/tree/main/Simple%20LED%20Blinking/LED%20Blinking |
+| 2 | LED_Brightness_and_PWM | https://github.com/Ahtisham-Hussain/Arduino-Projects/tree/main/Simple%20LED%20Blinking/LED_Brightness_and_PWM |
