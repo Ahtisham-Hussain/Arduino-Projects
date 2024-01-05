@@ -14,6 +14,6 @@ The analog pins, A0 to A5, measure voltages between 0V and 5V and convert analog
 
 | S.NO | Topic | Project Description |
 |-|-|-|
-| 1 | Simple LED Blinking | https://github.com/Ahtisham-Hussain/Arduino-Projects/tree/main/Sensors |
-| 2 | Switches | https://github.com/Ahtisham-Hussain/Arduino-Projects/tree/main/Simple%20LED%20Blinking |
-| 3 | Sensors | https://github.com/Ahtisham-Hussain/Arduino-Projects/tree/main/Switches |
+| 1 | Simple LED Blinking | https://github.com/Ahtisham-Hussain/Arduino-Projects/tree/main/Simple%20LED%20Blinking |
+| 2 | Switches | https://github.com/Ahtisham-Hussain/Arduino-Projects/tree/main/Switches | 
+| 3 | Sensors | https://github.com/Ahtisham-Hussain/Arduino-Projects/tree/main/Sensors |
