@@ -3,7 +3,7 @@ https://github.com/Ahtisham-Hussain/Traffic-Control-System/assets/154002517/0221
 
 ## Table of Contents
 
-|-|-|-|
-| 1 | Simple LED Blinking |  |
+|-|-|
+| 1 | Simple LED Blinking |
 | 2 | Switches |
 | 3 | Sensors |
